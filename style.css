@@ -115,6 +115,10 @@ nav{
     width: 100%;
 }
 
+.branding-container-mobile{
+    display: none;
+}
+
 /* branding ends here */
 
 /* --------Header ends here------------  */
